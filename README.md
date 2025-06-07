@@ -2,7 +2,7 @@
 The materials I used to study this course in the Winter 2022 semester and my solutions of the assignments.
 ## Lecture slides
 - Course Introduction
--   Computer vision overview
+--   Computer vision overview
 -   Historical context
 -   Course logistics
 - Image Classification
