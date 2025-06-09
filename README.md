@@ -1,6 +1,6 @@
 # UMich-EECS498-Deep-Learning-for-Computer-Vision
 The materials I used to study this course in the Winter 2022 semester and my solutions of the assignments.
-course webside:[https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/]
+course webside:https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/
 ## Lecture slides
 ### Course Introduction
 - Computer vision overview
